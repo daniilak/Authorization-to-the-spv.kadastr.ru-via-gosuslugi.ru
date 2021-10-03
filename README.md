@@ -1,4 +1,4 @@
-# Авторизация на сайт spv.kadastr.ru
+# Авторизация на сайт spv.kadastr.ru через gosuslugi.ru
 
 # Требования
 1. python > 3.5
